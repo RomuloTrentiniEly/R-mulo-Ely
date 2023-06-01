@@ -19,7 +19,7 @@
 
 
 
-![Romulo GitHub stats](https://github-readme-stats.vercel.app/api?username=RomuloTrentiniEly&show_icons=true&theme=radical)
+![Romulo GitHub stats](https://github-readme-stats.vercel.app/api?username=RomuloTrentiniEly&show_icons=true)
 
 Tecnologias que uso no meu dia 
   <div style="display: inline-block;">
