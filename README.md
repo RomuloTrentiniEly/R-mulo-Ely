@@ -5,7 +5,7 @@
 <a href="https://wa.me/5571984911929?" target="_blank" title="whats"> 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="" class="whats">
  </a> <br>
-💼 Atualmente, sou um desenvolvedor júnior com experiência em HTML, CSS e JavaScript. Ao longo de um ano de estudos na Infinity School, aprimorei minhas habilidades e adquiri conhecimentos sólidos nessas tecnologias fundamentais para o front-end. <br> <br>
+💼 Atualmente, sou um desenvolvedor júnior com experiência em HTML, CSS, JavaScript e react.js. Ao longo de um ano de estudos na Infinity School, aprimorei minhas habilidades e adquiri conhecimentos sólidos nessas tecnologias fundamentais para o front-end. <br> <br>
 
 📚 Também estou cursando Análise e Desenvolvimento de Sistemas na faculdade Unijorge, o que me permite expandir meu conhecimento e me manter atualizado com as tendências e melhores práticas do setor.<br>
 
@@ -26,6 +26,6 @@ Tecnologias que uso no meu dia
     <img align="center"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
     <img align="center"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="html5">
     <img align="center"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="html5">
-    <img align="center"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="html5">
+    <img align="center"  src="https://img.shields.io/badge/React.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="html5">
 </div>
 Vamos construir a web juntos e criar experiências incríveis! ✨
